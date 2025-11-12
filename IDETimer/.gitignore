@@ -1,0 +1,47 @@
+﻿# Rider / ReSharper
+.idea/
+*.sln.iml
+*.userprefs
+_ReSharper*/
+*_ReSharper.Caches/
+*.DotSettings.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ll]og/
+[Ll]ogs/
+
+# Rider project file
+riderModule.iml
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# NuGet packages
+*.nupkg
+packages/
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Misc
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# User-specific
+*.userosscache
+*.sln.docstates
